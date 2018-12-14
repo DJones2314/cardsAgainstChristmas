@@ -13,7 +13,7 @@ public class Cards extends Main{
 		people.add("Elf");
 		people.add("Rudolph");
 		people.add("Naughty Elf");
-		people.add("Madeleine Mccann");
+		people.add("Matt");
 		
 		
 		ArrayList<String> action = new ArrayList<String>();
